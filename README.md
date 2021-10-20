@@ -1,10 +1,29 @@
-# flutter_bwa
+# Cozzy
 
-Aplikasi pencarian kos online
+Find House Application
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+**Cozzy** is application for finding house, build with Flutter SDK.
+
+# Tools Requirement
+- Visual Studio Code
+- Firebase
+- Flutter SDK
+- Figma
+
+# Key Points
+- UI Slicing from Figma to Flutter
+- Consume REST API
+- Deploy to Firebase App Distribution (For Testing)
+- State Management (Provider)
+
+# How to Use for Development
+1. Open terminal or command prompt
+2. Type git clone https://github.com/sylviadiva/Cozzy.git 
+3. Open your VS Code 
+4. Click Run tab, then choose Start Debugging
+5. Done
 
 A few resources to get you started if this is your first Flutter project:
 
