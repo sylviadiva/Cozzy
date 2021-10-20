@@ -46,4 +46,4 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Developer
 
-<a href="https://github.com/sylviadiva" target="_blank">Sylvia Divalona</a>
+<a href="https://github.com/sylviadiva" target="__blank">Sylvia Divalona</a>
