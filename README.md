@@ -26,13 +26,9 @@ Find House Application
 5. Done
 
 ## Project Snapshoots
-<table>
-  <tr>
-    <td><img src="https://user-images.githubusercontent.com/33641023/138045351-79a93580-a0f2-4045-82e6-a8ee36393a78.jpeg" width="411" height="731"></td>
-    <td><img src="https://user-images.githubusercontent.com/33641023/138045452-1c39dca8-4251-46be-b0ed-66b5f3221856.jpeg" width="411" height="731"></td>
-    <td><img src="https://user-images.githubusercontent.com/33641023/138045481-42fefd24-aac6-4912-96f4-d2f96a03b94e.jpeg" width="411" height="731"></td>
-  </tr>
- </table>
+<img src="https://user-images.githubusercontent.com/33641023/138045351-79a93580-a0f2-4045-82e6-a8ee36393a78.jpeg" width="280" height="650">
+<img src="https://user-images.githubusercontent.com/33641023/138045452-1c39dca8-4251-46be-b0ed-66b5f3221856.jpeg" width="280" height="650">
+<img src="https://user-images.githubusercontent.com/33641023/138045481-42fefd24-aac6-4912-96f4-d2f96a03b94e.jpeg" width="280" height="650">
 
 ## Flutter Documentation
 A few resources to get you started if this is your first Flutter project:
